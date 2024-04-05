@@ -1,0 +1,6 @@
+@IdentityApiEndpointsSampleDotnet8_HostAddress = http://localhost:5274
+
+GET {{IdentityApiEndpointsSampleDotnet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
